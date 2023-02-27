@@ -56,7 +56,7 @@ const ProcessFlow: React.FC = () => {
                       borderColor="gray.100"
                       borderRadius="500px"
                       bg="rgb(28%, 56%, 5%)"
-                      _hover="inital"
+                      // _hover="inital"
                     >
                       <Box
                         fontSize="2xl"
@@ -93,7 +93,7 @@ const ProcessFlow: React.FC = () => {
                       borderColor="gray.100"
                       borderRadius="50px"
                       bg="rgb(28%, 56%, 5%)"
-                      _hover="inital"
+                      // _hover="inital"
                     >
                       <Box
                         fontSize="2xl"
@@ -145,7 +145,7 @@ const ProcessFlow: React.FC = () => {
                       borderColor="gray.100"
                       borderRadius="50px"
                       bg="rgb(28%, 56%, 5%)"
-                      _hover="inital"
+                      // _hover="inital"
                     >
                       <Box
                         fontSize="2xl"
@@ -187,7 +187,7 @@ const ProcessFlow: React.FC = () => {
                       borderColor="gray.100"
                       borderRadius="50px"
                       bg="rgb(28%, 56%, 5%)"
-                      _hover="inital"
+                      // _hover="inital"
                     >
                       <Box
                         fontSize="2xl"
